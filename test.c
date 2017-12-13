@@ -4,7 +4,7 @@ void main(void)
 {
 
 	printf("test.c\n");
-	test.c in master
+	testtest.c in master
 
 	return;
 }
