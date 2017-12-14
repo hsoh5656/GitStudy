@@ -8,4 +8,5 @@ void main(void)
 	return;
 	iiiixxxxxxxxx
 	insert in fetch
+	insert in user2
 }
