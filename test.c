@@ -8,7 +8,3 @@ void main(void)
 	iiiixxxxxxxxx
 	insert in fetch
 	insert in user2
-aldfjal
-
-
-}
