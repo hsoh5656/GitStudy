@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include <stdio.h> 
 void main(void)
 {
 
@@ -10,5 +9,6 @@ void main(void)
 	insert in fetch
 	insert in user2
 aldfjal
+
 
 }
